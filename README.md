@@ -16,6 +16,22 @@ first goal！
 2. 实现基本的算子
 3. 。。。。。。
 
+# other
 量化模块
+
 支持dynamic shape
+
 在算子的优化上考虑到一些软硬件的结合
+
+引入MLIR的dialect conversion概念，
+
+# reference
+1. tensorflow
+2. mhlo
+3. XLAtfrt
+4. torch-mlir
+5. onnx-mlir
+6. iree
+7. circt
+8. flang
+9. polygeist
